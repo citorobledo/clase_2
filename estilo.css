@@ -13,3 +13,11 @@ h3 {
     margin:20px auto;
     display:block;
 }
+
+.boton {
+    position: center;
+    color: rgb(4, 37, 66);
+    background-color: rgb(226, 241, 136);
+    border-radius: 10px;
+    padding: 15px;
+}
