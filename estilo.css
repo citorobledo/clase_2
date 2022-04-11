@@ -3,3 +3,13 @@ h1 {
     text-align: center;
     background-color: yellow;
 }
+h3 {
+    color: red;
+    text-align: center;
+    background-color: yellow;
+}
+
+.centrado{
+    margin:20px auto;
+    display:block;
+}
