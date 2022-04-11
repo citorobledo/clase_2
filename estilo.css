@@ -1,15 +1,18 @@
 h1 {
+    display: table;
+    margin: 0px auto 0px auto;
     color: blue;
     text-align: center;
-    background-color: yellow;
+    background-color: yellow
 }
+
 h3 {
     color: red;
     text-align: center;
-    background-color: yellow;
+    background-color: yellow
 }
 
-.centrado{
+.centraImagen{
     margin:20px auto;
     display:block;
 }
