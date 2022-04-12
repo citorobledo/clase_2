@@ -6,9 +6,11 @@ h1 {
     text-align: center;
     background-color: rgb(223, 223, 121)
 }
+
 h2 {
     text-align: center;
 }
+
 h3 {
     display: table;
     margin: 0px auto 0px auto;
@@ -17,10 +19,21 @@ h3 {
     background-color: yellow
 }
 
+p {
+    font-size: 25px;
+    width: 40%;
+    text-align: center;
+    margin: 12px auto 12px auto;
+}
 .centraImagen{
     margin:20px auto;
     display:block;
 }
+
+img {
+    height: 50%;
+    width: 50%;
+  }
 
 .fcc-btn {
     display: inline-block;
@@ -32,6 +45,7 @@ h3 {
     border-radius: 10px;
     box-shadow: #199 0px 0px 5px 3px;
 }
+
 .fcc-btn:hover {
   background-color: #393e8d;
 }
