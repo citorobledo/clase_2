@@ -1,9 +1,10 @@
 h1 {
+    padding: 15px 15px;
     display: table;
-    margin: 0px auto 0px auto;
+    margin: 10px auto 10px auto;
     color: blue;
     text-align: center;
-    background-color: yellow
+    background-color: rgb(223, 223, 121)
 }
 h2 {
     text-align: center;
@@ -29,7 +30,7 @@ h3 {
     padding: 15px 25px;
     text-decoration: none;
     border-radius: 10px;
-    box-shadow: #199 0px 0px 0px 3px;
+    box-shadow: #199 0px 0px 5px 3px;
 }
 .fcc-btn:hover {
   background-color: #393e8d;
