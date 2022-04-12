@@ -9,6 +9,8 @@ h2 {
     text-align: center;
 }
 h3 {
+    display: table;
+    margin: 0px auto 0px auto;
     color: red;
     text-align: center;
     background-color: yellow
