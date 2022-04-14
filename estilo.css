@@ -2,9 +2,10 @@ h1 {
     padding: 15px 15px;
     display: table;
     margin: 10px auto 10px auto;
-    color: blue;
+    color: #1634c5;
     text-align: center;
-    background-color: rgb(223, 223, 121)
+    background-color: #c7a82bb0;
+    border-radius: 10px
 }
 
 h2 {
@@ -18,7 +19,7 @@ h3 {
     margin: 0px auto 0px auto;
     color: red;
     text-align: center;
-    background-color: yellow
+    background-color: #c7a82bb0
 }
 
 p {
@@ -40,14 +41,14 @@ img {
 .fcc-btn {
     display: inline-block;
     position: relative;
-    background-color: #199319;
-    color: white;
+    background-color: #c7a82bb0;
+    color: #1634c5;
     padding: 15px 25px;
     text-decoration: none;
     border-radius: 10px;
-    box-shadow: #199 0px 0px 5px 3px;
+    box-shadow: #1634c5 0px 0px 5px 5px;
 }
 
 .fcc-btn:hover {
-  background-color: #393e8d;
+  background-color: #08118b88;
 }
