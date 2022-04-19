@@ -25,7 +25,8 @@ h3 {
 
 p {
     font-size: 20px;
-    width: 50%;
+    height: 50%;
+    width: 40%;
     text-align: center;
     margin: 12px auto 12px auto;
 }
@@ -35,8 +36,8 @@ p {
 }
 
 img {
-    height: 40%;
-    width: 50%;
+    height: 40%; /* ancho*/
+    width: 40%; /* alto*/
   }
 
 .fcc-btn {
